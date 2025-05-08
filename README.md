@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://i.imgur.com/dLeIlrm.gif" alt="Omar 3D Banner" />
-</p>
-
 <h1 align="center">Hi 👋, I'm Omar</h1>
 <h3 align="center">Artificial Intelligence Developer | Machine Learning Specialist | Web Scraping Expert | Data Enthusiast</h3>
 
